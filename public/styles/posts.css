@@ -7,6 +7,12 @@
 #posts-list {
   margin: 3rem auto;
   max-width: 40rem;
+  list-style: none;
+}
+
+#posts-list li{
+  list-style: none;
+  text-decoration: none;
 }
 
 .post-item {
